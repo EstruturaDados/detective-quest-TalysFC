@@ -1,4 +1,4 @@
-// Código nivel aventureiro
+// Código nivel mestre
 
 #include <stdio.h>
 #include <stdlib.h>
